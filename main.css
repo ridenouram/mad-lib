@@ -1,0 +1,9 @@
+body{
+    background-color: aqua;
+}
+
+label {
+    display: block;
+    padding: 10px;
+}
+
